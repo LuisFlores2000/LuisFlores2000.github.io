@@ -1,0 +1,62 @@
+.parrafo{
+    z-index: 1;
+    width: 540px;
+    height: 440px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background-color: aqua;
+    box-shadow: 1px 5px 25px rgba(0,0,0,45);
+    border-radius: 5px;
+    text-align: justify;
+    margin-left: 15cm;
+    margin-top: 2cm;
+
+
+}
+.parrafo img{
+    width: 310px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+
+
+}
+.home{
+    align-items: center;
+    border-radius: 5cm;
+    border-right: 5cm;
+    border-left: 5cm;
+    margin-left: 4.5cm;
+    margin-right: 2.5cm;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    background-color: aqua;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    border-radius: 2cm;
+}
+.mapa{
+    z-index: 1;
+    width: 440px;
+    height: 400px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background-color: aqua;
+    box-shadow: 1px 5px 25px rgba(0,0,0,75);
+    border-radius: 5px;
+    text-align: justify;
+    margin-left: 2cm;
+    margin-top: 2cm;
+    margin-left: 16.5cm;
+    
+    
+    
+
+}
+.mapa h2{text-align: center;}
+
