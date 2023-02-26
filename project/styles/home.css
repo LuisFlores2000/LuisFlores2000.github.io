@@ -1,0 +1,65 @@
+.parrafo{
+    z-index: 1;
+    width: 600px;
+    height: 450px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    align-items: center;
+    box-shadow: 1px 5px 25px rgba(0,0,0,45);
+    border-radius: 5px;
+    text-align: justify;
+    margin-right: 10cm;
+    margin-left: 10cm;
+    background-color: bisque;
+
+
+}
+.parrafo img{
+    width: 400px;
+    border-radius: 5px;
+    float:left;
+    margin-right:20px;
+    align-items: center;
+    
+
+
+}
+h1{
+
+    text-align: center;
+    background-color: bisque;
+    margin-left: 14cm;
+    margin-right: 14cm;
+    border-radius: 30px;
+
+}
+.ubicacion{
+    text-align: center;
+    border-top:0dvw;
+    margin-top:0;
+    
+    
+}
+.ubicacion{
+    
+    z-index: 1;
+    width: 440px;
+    height: 700px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    align-items: center;
+    box-shadow: 1px 5px 25px rgba(0,0,0,45);
+    border-radius: 5px;
+    text-align: justify;
+    margin-right: 2cm;
+    margin-top: 15px;
+
+    margin-left: 12.5cm;
+    margin-right: 10cm;
+    background-color: bisque;
+}
+ 
+
+
