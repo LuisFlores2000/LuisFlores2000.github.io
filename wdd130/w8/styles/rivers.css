@@ -12,6 +12,10 @@
     margin-left: 10cm;
     margin-top: 0cm;
 
+    position: absolute;
+    left:-9cm;
+    
+
 
 
 }
@@ -19,4 +23,35 @@
     width: 310px;
     border-radius: 5px;
     float: left;
-    margin-right: 15px;}
+    margin-right: 15px;
+}
+
+.parrafo1{
+    z-index: 1;
+    width: 600px;
+    height: 800px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background-color: rgb(173, 192, 137);
+    box-shadow: 1px 5px 25px rgba(0,0,0,45);
+    border-radius: 5px;
+    text-align: justify;
+    margin-left: 10cm;
+    margin-top: 0cm;
+    position:absolute;
+    
+    right:10px;
+    
+
+
+
+}
+.parrafo1 img{
+    width: 310px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+
+

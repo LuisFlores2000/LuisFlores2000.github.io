@@ -9,7 +9,7 @@
     box-shadow: 1px 5px 25px rgba(0,0,0,45);
     border-radius: 5px;
     text-align: justify;
-    margin-left: 15cm;
+    margin-left: 12cm;
     margin-top: 2cm;
 
 
@@ -35,9 +35,10 @@ h1{
     text-align: center;
     text-decoration: wavy;
     background-color: aqua;
-    margin-left: 15cm;
+    margin-left: 12cm;
     margin-right: 15cm;
     border-radius: 2cm;
+    box-shadow:1px 5px 25px ;
 }
 .mapa{
     z-index: 1;
@@ -52,7 +53,7 @@ h1{
     text-align: justify;
     margin-left: 2cm;
     margin-top: 2cm;
-    margin-left: 16.5cm;
+    margin-left: 13cm;
     
     
     
@@ -60,3 +61,24 @@ h1{
 }
 .mapa h2{text-align: center;}
 
+.pie{
+    background-color: wheat;
+    margin-top: 20px;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    border-radius: 10%;
+}
+.pie img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 6cm;
+    border-style:dashed;
+    
+    width: 900px;
+
+}
+.pie h2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
