@@ -162,4 +162,39 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+.imagen1{
+  box-decoration-break: slice;
+  box-shadow: 5px 5px 15px 10px;
 
+}
+nav{
+  box-shadow: 5px 10px 15px ;
+  margin-bottom: 20px;
+}
+
+.titulo1{
+  background-color: #c9c4c9;
+  padding-left: 20px 20px;
+  height: 400px;
+  width: 350px;
+  margin-left: 2cm;
+  box-shadow: 5px 10px 15px;
+}
+.titulo2{
+  background-color: #c9c4c9;
+  padding-right: 20px 20px;
+  height: 400px;
+  width: 350px;
+  margin-right: 8cm;
+  margin-left: 14cm;
+  border-bottom: 0cm;
+  margin-top: -11.1cm;
+  box-shadow: 5px 10px 15px;
+
+}
+.titulo1 h3{
+  background-color: #ccc;
+  margin-left: 2cm;
+  margin-right: 2cm;
+  border-radius: 20px;
+}
