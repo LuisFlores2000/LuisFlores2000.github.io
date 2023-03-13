@@ -1,4 +1,49 @@
-.wirefram{
-    width: 1000px;
-    height: 1000px;
+.imagen img{
+    margin-top: 2cm;
+    width: 500px;
+    height: 800px;
+    margin-left: 10cm;
 }
+.imagen  p{
+    background-color: darkgrey;
+    margin-left: 4cm;
+    margin-right: 20cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    padding: 20px 20px 30px 30px;
+    width: 6cm;
+}
+ h2{
+    background-color: darkgrey;
+    margin-left: 14cm;
+    margin-right: 14cm;
+    text-align: center;
+    border-radius: 20px;
+}
+img{
+    padding-top: -14cm;
+    margin-top: -13cm;
+    margin-left: 15cm;
+    margin-right: 14cm;
+    margin-bottom: 2.4cm;
+    width: 6cm;
+    height: 8.5cm;
+}
+.cuerpo1{
+
+    
+    background-color: blanchedalmond;
+    margin-top: -11cm;
+    margin-left: 25cm;
+    margin-right: 14cm;
+    margin-bottom: 2cm;
+    width: 6cm;
+    
+    padding: 10px;
+    
+    height: 6cm;
+
+}
+
+
+
