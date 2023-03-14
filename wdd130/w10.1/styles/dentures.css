@@ -1,0 +1,33 @@
+
+
+
+.dentures img{
+    width: 250px;
+    height: 250px;
+    margin-left: 13.5cm;
+
+
+}
+h1{
+    text-align: center;
+}
+.complete_dentures img{
+    width: 250px;
+    height: 250px;
+    margin-left: 14cm;
+    
+}
+h2{
+    text-align: center;
+}
+.partial_dentures img{
+    width: 250px;
+    height: 250px;
+    margin-left: 14cm;
+
+    
+}
+h3{text-align: center;}
+image{
+    align-items: center;
+}

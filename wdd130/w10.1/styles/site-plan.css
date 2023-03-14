@@ -1,0 +1,170 @@
+.imagen img{
+    margin-top: 1cm;
+    width: 500px;
+    height: 800px;
+    margin-left: 10cm;
+}
+.imagen  p{
+    background-color: blanchedalmond;
+    margin-left: 4cm;
+    margin-right: 20cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    padding: 20px 20px 30px 30px;
+    width: 6cm;
+    box-shadow: 5px 15px 30px;
+}
+ h2{
+    background-color:blanchedalmond;
+    margin-left: 15cm;
+    margin-right: 14cm;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 15px 30px;
+    margin-top: 1cm;
+}
+img{
+    padding-top: -14cm;
+    margin-top: -13cm;
+    margin-left: 15cm;
+    margin-right: 14cm;
+    margin-bottom: 2.4cm;
+    width: 6cm;
+    height: 8.5cm;
+    box-shadow: 5px 15px 30px;
+}
+.cuerpo1{
+
+    
+    background-color: blanchedalmond;
+    margin-top: -11cm;
+    margin-left: 25cm;
+    margin-right: 14cm;
+    margin-bottom: 2cm;
+    width: 6cm;
+    
+    padding: 10px;
+    
+    height: 6cm;
+    box-shadow: 5px 15px 30px;
+
+}
+body{
+    background-color: darkgrey;
+}
+
+.titulo{
+    background-color: white;
+    width: 35cm;
+    height: 13cm;
+    box-shadow: 5px 15px 30px;
+}
+.cuerpo2{
+    background-color: antiquewhite;
+    width: 120px;
+    height: 30px;
+    margin-top: 1cm;
+    margin-left: 16cm;
+    margin-right: 10cm;
+    margin-bottom: 1cm;
+    text-align: center;
+    border-top: 15px;
+    padding-top: 0.5cm;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    padding-bottom: 0.5cm;
+    
+}
+.caja1{
+    background-color: antiquewhite;
+    width: 10cm;
+    height: 12cm;
+    margin-left: 1cm;
+    box-shadow: 5px 12px 35px;
+}
+
+.caja1 img{
+    width: 2cm;
+    height: 2cm;
+
+    margin-top: 1cm;
+    margin-left: 4cm;
+    
+}
+.caja1 h2{
+    background-color: burlywood;
+    width: 3.5cm;
+    height: 2cm;
+    padding-top: 0.5cm;
+    text-align: center;
+
+
+    margin-left: 3.5cm;
+    margin-top: -1.5cm;
+    border-bottom: 0.2cm;
+}
+
+.facebook img{
+    width: 1cm;
+    height: 1cm;
+
+    margin-top: -6cm;
+    margin-left: 5cm;
+    padding: 0.4cm;
+}
+.whatsapp img{
+    width: 1cm;
+    height: 1cm;
+    padding: 0.4cm;
+
+    margin-top: -2.3cm;
+    margin-left: 5cm;
+    
+}
+
+.cuerpo3{
+    background-color:lightgrey;
+
+    width: 20cm;
+    height: 11cm;
+    margin-left: 12cm;
+    margin-top: -15cm;
+
+    padding: 1cm;
+
+    box-shadow: 4px 10px 20px;
+    text-decoration: wavy;
+}
+
+.cuerpo3 img{
+
+    width: 6cm;
+    height: 5cm;
+
+    margin-top: 0cm;
+    margin-left: 6cm;
+}
+footer{
+    background-color: lightslategray;
+    width: 33cm;
+    height: 5cm;
+    margin-left: 1cm;
+    margin-top: 0.5cm;
+    box-decoration-break: inherit;
+}
+.map{
+    width: 8cm;
+    height: 4cm;
+    margin-top: 0.5cm;
+    margin-left: 12cm;
+
+}
+
+
+
+
+
+
+
+
+
