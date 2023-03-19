@@ -1,0 +1,99 @@
+
+
+
+.dentures img{
+    width: 250px;
+    height: 250px;
+    margin-left: 13.5cm;
+
+
+}
+h1{
+    text-align: center;
+}
+.complete_dentures img{
+    width: 250px;
+    height: 250px;
+    margin-left: 14cm;
+    
+}
+h2{
+    text-align: center;
+}
+.partial_dentures img{
+    width: 250px;
+    height: 250px;
+    margin-left: 14cm;
+
+    
+}
+h3{text-align: center;}
+image{
+    align-items: center;
+}
+.dentures1{
+    box-shadow: 5px 10px 25px 10px;
+}
+body{
+    background: grey;
+}
+.dentures p{
+    background: white;
+    padding: center;
+    margin-right:8cm;
+    margin-left: 7cm;
+    border-radius: 10px;
+}
+h1{
+    background-color: white;
+    border-radius: 10px;
+    padding: center;
+    margin-right:12cm;
+    margin-left: 12cm;
+
+}
+.dentures2{
+    box-shadow: 5px 10px 25px 10px;
+}
+.complete_dentures p{
+    background: white;
+    padding: center;
+    margin-right:8cm;
+    margin-left: 7cm;
+    border-radius: 10px;
+
+}
+.complete_dentures h2{
+    background-color: white;
+    border-radius: 10px;
+    padding: center;
+    margin-right:12cm;
+    margin-left: 12cm;
+
+}
+.partial_dentures p{
+    background: white;
+    padding: center;
+    margin-right:8cm;
+    margin-left: 7cm;
+    border-radius: 10px;
+
+
+}
+.partial_dentures h3{
+    background-color: white;
+    border-radius: 10px;
+    padding: center;
+    margin-right:12cm;
+    margin-left: 12cm;
+}
+header{
+    background-color: darkcyan;
+}
+.pie{
+    background-color: darkcyan;
+    margin-left: 12cm;
+    margin-right:12cm ;
+    border-radius: 10px;
+
+}
