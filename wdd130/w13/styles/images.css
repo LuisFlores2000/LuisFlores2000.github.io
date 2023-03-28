@@ -1,0 +1,93 @@
+body{
+    background-color: gray;
+    
+
+}
+h1{
+    background-color: cadetblue;
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    box-shadow: 5px 10px 25px 30px;
+    border-radius: 30px;
+
+}
+.foto1{
+    box-shadow: 5px 10px 25px 30px;
+    width: 450px;
+    height: 430px;
+    margin-left: 5cm;
+    margin-top: 2cm;
+
+}
+.foto2{
+    box-shadow: 5px 10px 25px 30px;
+    width: 450px;
+    height: 430px;
+    margin-left: 2cm;
+    margin-top: 2cm;
+
+}
+.foto3{
+    box-shadow: 5px 10px 25px 30px;
+    width: 450px;
+    height: 430px;
+    margin-left: 5cm;
+    margin-top: 2cm;
+
+}
+.foto4{
+    box-shadow: 5px 10px 25px 30px;
+    width: 450px;
+    height: 430px;
+    margin-left: 2cm;
+    margin-top: 2cm;
+
+}
+.foto5{
+    box-shadow: 5px 10px 25px 30px;
+    width: 450px;
+    height: 430px;
+    margin-left: 5cm;
+    margin-top: 2cm;
+
+}
+.foto6{
+    box-shadow: 5px 10px 25px 30px;
+    width: 450px;
+    height: 430px;
+    margin-left: 2cm;
+    margin-top: 2cm;
+
+}
+
+h2{
+    background-color: cadetblue;
+    text-align: center;
+    margin-top: 2cm;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    box-shadow: 5px 10px 25px 30px;
+    border-radius: 30px;
+    
+
+
+}
+footer{
+
+    background-color: cadetblue;
+    width: 30cm;
+    height: 5cm;
+    margin-left: 3cm;
+    border-radius: 30px;
+}
+
+footer img{
+    width: 3cm;
+    height: 3cm;
+    margin-top:  -250x;
+    margin-left: 13.5cm;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
